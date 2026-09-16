@@ -1,2 +1,29 @@
-# rbyers24-hub
-This is going to be my landing page for any visitors
+# Hi there, I'm Ryan Byers 👋
+
+I'm a third year student at Baldwin Wallace University. 
+---
+
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors in Accounting and Finance at Baldwin Wallace University (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning journal entries, bookkeeping, audit and tax rules
+* 🌱 **Currently Building:** A new tax system that does not exist in any country to date.  
+* 💡 **Interests:** Golf, working out, investing
+* ⚡ **Fun Fact:** I have three brothers
+
+---
+
+### 📌 Featured Projects
+
+| Python anywhere game design | Building a game using the phythonanywhere.com website | pythonanywhere.com |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/ryan-byers-769346304
+* **Email:** rbyers24@bw.edu
