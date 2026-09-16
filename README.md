@@ -2,7 +2,7 @@
 
 I'm a third year student at Baldwin Wallace University. 
 ---
-
+* For Resume, click [here](https://rawcdn.githack.com/rbyers2345-ux/rbyers24-hub/38a57d2d381e4b9a33a040952cf228132c9e9279/resume.pdf)}
 ### 🎓 About Me
 
 * 🏫 **Education:** Currently pursuing a Bachelors in Accounting and Finance at Baldwin Wallace University (Expected Graduation: 2028)
